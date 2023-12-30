@@ -1,6 +1,6 @@
-[![Header](./background.jpg "Header")](http://cic.is-great.net/)
+[![Header](./img/background.jpg "Header")](http://cic.is-great.net/)
 
-# ⚡ Hey guys! <img src="./wave.gif" width="30px">
+# ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
 
 My name is Nguyen Tan Dat. Nguyen Tan Dat is a young enthusiastic programmer with the determination to constantly hone his skills to contribute to great projects.
 ## 🚀 Technologies & Tools
