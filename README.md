@@ -2,7 +2,7 @@
 
 # ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
 
-My name is Nguyen Tan Dat. Nguyen Tan Dat is a young enthusiastic programmer with the determination to constantly hone his skills to contribute to great projects.
+My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determination to constantly hone my skills to contribute to major projects in the future.
 # 🚀 Technologies & Tools
 
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-blue?style=flat&logo=google-cloud&labelColor=white)
