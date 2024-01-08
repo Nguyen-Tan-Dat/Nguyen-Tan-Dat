@@ -1,6 +1,5 @@
 [![Header](./img/background.jpg "Header")](http://cic.is-great.net/)
 
-
 # ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
 
 My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determination to constantly hone my skills to contribute to major projects in the future.
