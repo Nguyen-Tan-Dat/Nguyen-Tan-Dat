@@ -20,4 +20,4 @@ My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determ
 ![](https://img.shields.io/badge/Framework-Laravel-blue?style=flat&logo=laravel&labelColor=white)
 
 ![](https://img.shields.io/badge/Language-Java-blue.svg?style=flat&logo=openJDK&labelColor=white)
-![](https://img.shields.io/badge/Framework-Java_Spring-blue?style=flat&logo=spring&labelColor=white)
+![](https://img.shields.io/badge/Framework-Java_Spring-blue?style=flat&logo=spring&labelColor=red)
