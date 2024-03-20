@@ -15,9 +15,8 @@ My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determ
 ![](https://img.shields.io/badge/Language-CSS-blue?style=flat&logo=css3&logoColor=blue&labelColor=white)
 ![](https://img.shields.io/badge/Language-JavaScript-blue?style=flat&logo=javascript&labelColor=white&logoColor=goldenrod)
 
-![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=339933)
-![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&labelColor=DD0031)
-
+![](https://img.shields.io/badge/Frameworks-Express-blue?style=flat&logo=express&labelColor=white&logoColor=goldenrod)
+![](https://img.shields.io/badge/Frameworks-Angular-blue?style=flat&logo=angular&labelColor=white&logoColor=red)
 
 ![](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php&labelColor=white)
 ![](https://img.shields.io/badge/Framework-Laravel-blue?style=flat&logo=laravel&labelColor=white)
