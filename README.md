@@ -20,7 +20,7 @@ My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determ
 ![](https://img.shields.io/badge/DBMS-PostgreSQL-blue?style=flat&logo=postgresql&labelColor=white&logoColor=blue)
 
 ![](https://img.shields.io/badge/Frameworks-Express-blue?style=flat&logo=express&labelColor=white&logoColor=goldenrod)
-![](https://img.shields.io/badge/Frameworks-Angular-blue?style=flat&logo=angular&labelColor=white&logoColor=red)
+![](https://img.shields.io/badge/Frameworks-React-blue?style=flat&logo=react&labelColor=white&logoColor=blue)
 
 ![](https://img.shields.io/badge/Language-PHP-blue?style=flat&logo=php&labelColor=white)
 ![](https://img.shields.io/badge/Framework-Laravel-blue?style=flat&logo=laravel&labelColor=white)
