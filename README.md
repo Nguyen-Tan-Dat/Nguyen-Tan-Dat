@@ -9,6 +9,7 @@ My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determ
 
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-blue?style=flat&logo=google-cloud&labelColor=white)
 ![](https://img.shields.io/badge/VCS-GitHub-blue?style=flat&logo=github&logoColor=black&labelColor=white)
+![](https://img.shields.io/badge/VCS-GitLab-blue?style=flat&logo=gitlab&logoColor=orange&labelColor=white)
 ![](https://img.shields.io/badge/Tools-SourceTree-blue?style=flat&logo=sourcetree&logoColor=blue&labelColor=white)
 
 ![](https://img.shields.io/badge/Language-HTML-blue?style=flat&logo=html5&labelColor=white)
