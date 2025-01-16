@@ -1,4 +1,4 @@
-[![Header](./img/background.jpg "Header")](http://cic.is-great.net/)
+[![Header](./img/main.jpg "Header")](http://cic.is-great.net/)
 
 
 # ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
