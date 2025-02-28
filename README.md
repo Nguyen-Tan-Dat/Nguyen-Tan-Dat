@@ -1,7 +1,7 @@
 [![Header](./img/background.jpg "Header")](http://vocab.io.vnt/)
 
 
-# ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
+# ⚡ Hello everyone <img src="./img/wave.gif" width="30px">
 
 My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determination to constantly hone my skills to contribute to major projects in the future.
 
