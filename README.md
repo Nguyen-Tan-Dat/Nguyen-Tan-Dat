@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Dat 👋</h1>
 
-<p align="center">
+<p align="center" style="background:blue">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   <strong>Software Developer | Open Source Enthusiast </strong>
 </p>
