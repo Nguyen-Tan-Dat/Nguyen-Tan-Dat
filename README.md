@@ -1,4 +1,3 @@
-[![Header](./img/background.jpg "Header")](http://vocab.io.vn/)
 <h1 align="center">Hi there, I'm Dat 👋</h1>
 
 <p align="center">
@@ -66,6 +65,6 @@
 
 ### 📬 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nguyentandat.mail@gmail.com)
 
 
