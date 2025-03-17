@@ -1,11 +1,27 @@
-[![Header](./img/main.jpg "Header")](http://cic.is-great.net/)
+<h1 align="center">Hi there, I'm Dat 👋</h1>
 
+<p align="center" style="background:blue">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+  <strong>Software Developer | Open Source Enthusiast </strong>
+</p>
 
-# ⚡ Hey guys! <img src="./img/wave.gif" width="30px">
+---
 
-My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determination to constantly hone my skills to contribute to major projects in the future.
+### 👨‍💻 About Me  
+- 🙋🏻‍♂️ Introduce: My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determination to constantly hone my skills to contribute to major projects in the future.
+- 🚀 Passionate about **Backend Development, Microservices, GraphQL, and Cloud Computing**  
+- 🔨 Currently building **Vocabularies Learning API** using **Golang & GraphQL**  
+- 📚 Exploring **Node.js, React, and Full-Stack Development**  
+- 🌱 Learning **advanced software architecture & system design**  
 
-# 🚀 Technologies & Tools
+---
+
+### ⚡ Tech Stack  
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-blue?style=flat&logo=google-cloud&labelColor=white)
 ![](https://img.shields.io/badge/VCS-GitHub-blue?style=flat&logo=github&logoColor=black&labelColor=white)
@@ -29,3 +45,26 @@ My name is Nguyen Tan Dat. I am a young programmer full of enthusiasm and determ
 
 ![](https://img.shields.io/badge/Language-Java-blue.svg?style=flat&logo=openJDK&labelColor=white&logoColor=orange)
 ![](https://img.shields.io/badge/Framework-Java_Spring-blue?style=flat&logo=spring&labelColor=white)
+
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen-Tan-Dat&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguyen-Tan-Dat&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🚀 Featured Projects  
+✅ **[Vocabularies Learning API](https://github.com/Nguyen-Tan-Dat/Vocabualries-Learning-API)** – GraphQL API for learning English vocabulary  
+✅ **[My-Vocab-API](https://github.com/Nguyen-Tan-Dat/my-vocab-api)** – API for managing vocabulary collections  
+
+---
+
+### 📬 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nguyentandat.mail@gmail.com)
+
+
