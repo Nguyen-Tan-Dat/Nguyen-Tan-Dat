@@ -64,7 +64,7 @@
 ---
 
 ### 📬 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentandat/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:nguyentandat.mail@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/Facebook-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentandat/)
 
